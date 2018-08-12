@@ -1,0 +1,47 @@
+header {
+ background:url("assets/images/headers/homepage_cover.jpg") center;
+}
+
+.tk-azo-sans-web {
+ font-family:"azo-sans-web",sans-serif;
+}
+
+@font-face {
+ font-family:tk-azo-sans-web-n7;
+ src:url(https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");
+ font-weight:700;
+ font-style:normal;
+}
+@font-face {
+ font-family:tk-azo-sans-web-n4;
+ src:url(https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");
+ font-weight:400;
+ font-style:normal;
+}
+
+@font-face {
+ font-family:azo-sans-web;
+ src:url(https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/9aa4fe/000000000000000000013f4e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");
+ font-weight:700;
+ font-style:normal;
+}
+@font-face {
+ font-family:azo-sans-web;
+ src:url(https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/9dc3b1/000000000000000000013f8f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");
+ font-weight:400;
+ font-style:normal;
+}
+
+
+                    .TnTKLDFs_0{stroke-dasharray:304 306;stroke-dashoffset:305;animation:TnTKLDFs_draw_0 5s linear 0ms infinite,TnTKLDFs_fade 5s linear 0ms infinite;}
+                    .TnTKLDFs_1{stroke-dasharray:648 650;stroke-dashoffset:649;animation:TnTKLDFs_draw_1 5s linear 0ms infinite,TnTKLDFs_fade 5s linear 0ms infinite;}
+                    .TnTKLDFs_2{stroke-dasharray:990 992;stroke-dashoffset:991;animation:TnTKLDFs_draw_2 5s linear 0ms infinite,TnTKLDFs_fade 5s linear 0ms infinite;}
+                    .TnTKLDFs_3{stroke-dasharray:1371 1373;stroke-dashoffset:1372;animation:TnTKLDFs_draw_3 5s linear 0ms infinite,TnTKLDFs_fade 5s linear 0ms infinite;}
+                    .TnTKLDFs_4{stroke-dasharray:1528 1530;stroke-dashoffset:1529;animation:TnTKLDFs_draw_4 5s linear 0ms infinite,TnTKLDFs_fade 5s linear 0ms infinite;}
+                    @keyframes TnTKLDFs_fade{0%{stroke-dashoffset:305}100%{stroke-dashoffset: -10000}}
+                    @keyframes TnTKLDFs_draw_0{15.384615384615385%{stroke-dashoffset: 305}100%{ stroke-dashoffset: 0;}}
+                    @keyframes TnTKLDFs_draw_1{15.384615384615385%{stroke-dashoffset: 649}100%{ stroke-dashoffset: 0;}}
+                    @keyframes TnTKLDFs_draw_2{15.384615384615385%{stroke-dashoffset: 991}100%{ stroke-dashoffset: 0;}}
+                    @keyframes TnTKLDFs_draw_3{15.384615384615385%{stroke-dashoffset: 1372}100%{ stroke-dashoffset: 0;}}
+                    @keyframes TnTKLDFs_draw_4{15.384615384615385%{stroke-dashoffset: 1529}100%{ stroke-dashoffset: 0;}}
+                
